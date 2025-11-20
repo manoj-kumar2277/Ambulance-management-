@@ -58,7 +58,7 @@ This project demonstrates essential C programming concepts such as **file handli
   #include <stdio.h>
   #include <stdlib.h>
   #include <string.h>
-````
+
 
 ### **4. File Handling Requirements**
 
