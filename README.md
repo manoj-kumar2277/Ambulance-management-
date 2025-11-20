@@ -169,12 +169,26 @@ ambulance.exe
 
 *(Replace with your real screenshots)*
 1️⃣ Main Menu
+<img width="364" height="285" alt="image" src="https://github.com/user-attachments/assets/46697223-6194-4c4b-81a0-b7eca8e288a4" />
+
 2️⃣ Add Ambulance
+<img width="457" height="293" alt="image" src="https://github.com/user-attachments/assets/84794fa3-86ff-44cf-acb3-5841ee82eaf6" />
+
 3️⃣ View Ambulances
+<img width="884" height="294" alt="image" src="https://github.com/user-attachments/assets/5a43d8ec-c832-41d5-97d4-a301dd49b656" />
+
 4️⃣ Search Ambulance
+<img width="461" height="288" alt="image" src="https://github.com/user-attachments/assets/f4c8c94b-8404-447b-beb4-99cfeb21b7b3" />
+
 5️⃣ Update Ambulance
+<img width="492" height="202" alt="image" src="https://github.com/user-attachments/assets/77ff8673-ce91-4d8b-b779-b212e5d7a46a" />
+
 6️⃣ Delete Ambulance
+<img width="779" height="146" alt="image" src="https://github.com/user-attachments/assets/976b90b1-d906-4460-be1e-ba634a7a4981" />
+
 7️⃣ Exit
+<img width="613" height="260" alt="image" src="https://github.com/user-attachments/assets/4ce16ad7-fa9f-4615-bc3e-96b9ffa473bc" />
+
 
 
 
