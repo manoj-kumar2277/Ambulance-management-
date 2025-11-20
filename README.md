@@ -1,4 +1,4 @@
-##Abstract
+#Abstract
 The Ambulance / Transport Management System is a simple, terminal-based application written in C, designed to help manage ambulance records effectively. The system provides essential features such as adding new ambulance entries, searching for ambulances by ID, updating existing details like location and status, and deleting records when needed.
 All ambulance information is stored persistently in a binary ambulance.dat file, ensuring data remains available across multiple program sessions.
 The program uses a clean, menu-driven interface suitable for beginners and small transport/emergency setups. This project demonstrates key C programming concepts such as file handling, structures, arrays, and menu-based control flow, offering a lightweight and practical solution for managing ambulance data.
